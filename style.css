@@ -282,14 +282,6 @@ section {
   }
 
   
-
- 
-  .arrow {
-    position: absolute;
-    right: -5rem;
-    bottom: 2.5rem;
-  }
-  
   .details-container {
     padding: 1.5rem;
     flex: 1;
